@@ -1,0 +1,14 @@
+body{
+	text-align: center;
+}
+
+#criminalScore{
+	color: red;
+	font-size: 50px;
+}
+
+#copScore{
+	color: blue;
+
+	font-size: 50px;
+}
